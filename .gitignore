@@ -1,3 +1,7 @@
+# file needs to be ignored
+keys.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
